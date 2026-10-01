@@ -74,6 +74,15 @@ export const projectsData: Project[] = [
     tags: ["Python", "Streamlit", "SciPy", "Plotly"],
     githubUrl: "https://github.com/fakebaconpancakes/ab_testing-experimentation",
     demoUrl: "https://abtesting-advertising-experimentation.streamlit.app/"
+  },
+  {
+    id: "4",
+    title: "Downhole Digital Twin: Real-Time Edge AI for Drilling Telemetry",
+    description: "Built an interactive digital twin for the Volve field that streams drilling telemetry, detects anomalies with Isolation Forest, explains predictions with SHAP, and supports what-if simulations for safer equipment decisions.",
+    image: "/oil.png",
+    tags: ["Python", "FastAPI", "React", "scikit-learn", "SHAP"],
+    githubUrl: "https://github.com/fakebaconpancakes/Volve_Equipment_Failure_Prediction",
+    demoUrl: "https://volve-equipment-failure-prediction.vercel.app/"
   }
 ];
 
