@@ -138,7 +138,7 @@ export const papersData: Paper[] = [
   {
     id: "1",
     title: "WiFi-Based Human Activity Recognition and Fall Detection with Taxonomy, Benchmarks, and Future Directions",
-    authors: "Abel Nathanael Hutapea et al.",
+    authors: "Chua, K. C., Lew, K. L., Toa, C. K., Paudianto, M. A., Nathanael, I., & Hutapea, A. N.",
     venue: "Artificial Intelligence and Applications",
     date: "2026",
     abstract: "A review of 26 peer-reviewed studies on WiFi-based human activity recognition and fall detection, identifying deployment gaps, data architectures, and future research directions.",
