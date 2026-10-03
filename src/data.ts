@@ -3,12 +3,11 @@ import { Project, SkillCategory, Education, Certification, Paper } from './types
 export const personalInfo = {
   name: "Abel Nathanael Hutapea",
   headline: "Final Year Data Science Undergraduate",
-  bio: "I'm a fourth-year Data Science student passionate about machine learning, deep learning, and big data. I enjoy building practical analytics products, conducting research, and translating complex data into meaningful insights.",
+  bio: "a fourth-year Data Science student passionate about machine learning, deep learning, and big data. I enjoy building practical analytics products, conducting research, and translating complex data into meaningful insights.",
   availability: "Available for full-time internships: Feb 2027 onwards.",
   email: "abelnathan8@gmail.com",
   github: "https://github.com/fakebaconpancakes",
-  linkedin: "https://www.linkedin.com/in/abel-nathanael-hutapea/",
-  profileImage: "/me.png"
+  linkedin: "https://www.linkedin.com/in/abel-nathanael-hutapea/"
 };
 
 export const education: Education = {
